@@ -4,7 +4,7 @@ from django.conf import settings
 from boto.ses import SESConnection
 
 
-__version__ = '0.3_pre'
+__version__ = '0.2.1_pre'
 __author__ = 'Harry Marr'
 
 
